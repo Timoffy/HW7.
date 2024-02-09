@@ -1,0 +1,160 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* -------------------------------------header--------------------------------------- */
+body {
+    margin: 0;
+    padding: 0;
+}
+.flex {
+    display: flex;
+}
+
+.header-wrap {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menu {
+    gap: 50px;
+}
+
+.p1-wrap {
+    gap: 93px;
+}
+
+.p2-wrap {
+    gap: 50px;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #212121;
+}
+
+.logo-el1 {
+
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    color: #000000;
+}
+
+.logo-el {
+    color: #2196F3;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 31px;
+}
+
+.el1 {
+    color: #2196F3;
+}
+
+.el2 {
+    color: #757575;
+}
+
+.sec_1-wrap {
+    background-color: #2F303A;
+    width: 1550px;
+    height: 600px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-weight: 900px;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    padding-top: 200px;
+    font-family: Roboto;
+}
+
+.btn {
+
+    width: 216px;
+    height: 50px;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    margin-left: 650px;
+}
+
+.button {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700px;
+    line-height: 30px;
+    padding: 10px 32px;
+    display: block;
+    margin-left: 12px;
+}
+
+.sec_2-wrap {
+    margin-top: 94px;
+    gap: 30px;
+    margin-left: 215px;
+    margin-right: 215px;
+}
+
+h4 {
+    color: #212121;
+    font-weight: 700px;
+    size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+.sec_2-p {
+    color: #757575;
+}
+.images {
+    gap: 30px;
+justify-content: center;
+}
+.txt-job {
+    color: #212121;
+    text-align: center;
+}
+
+.team_text {
+    color: #212121;
+    font-weight: 700px;
+    size: 20px;
+    text-align: center;
+}
+
+.team_gg {
+    margin-left: 160px;
+    margin-bottom: 94px;
+}
+
+footer {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 252px;
+}
+
+.footer_2 {
+    margin-left: 215px;
+    padding-top: 60px;
+}
+.p1-wrap {
+    color: #FFFFFF;
+}
+.footer4 {
+    color: #FFFFFF99;
+}
